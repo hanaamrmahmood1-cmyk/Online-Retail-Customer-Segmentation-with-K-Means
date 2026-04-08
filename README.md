@@ -4,7 +4,7 @@ Segment customers based on purchasing behavior (Price & Quantity) to identify di
 
 Dataset
 
-[Online Retail Dataset](https://archive.ics.uci.edu/ml/datasets/Online+Retail)
+[Online Retail Dataset](https://www.kaggle.com/datasets/danielarivasu/online-retail-sales?resource=download)
 
 Steps
 1. Data Cleaning
